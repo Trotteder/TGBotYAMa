@@ -1,0 +1,100 @@
+2025-11-24 19:24:33 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:33 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:33 Game check PASSED - getting chatId
+2025-11-24 19:24:33 chatId retrieved: -1002638392742
+2025-11-24 19:24:33 Checking if player 744156514 is alive...
+2025-11-24 19:24:33 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:33 Processing CHECK action
+2025-11-24 19:24:33 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:33 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:33 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:33 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:33 Game check PASSED - getting chatId
+2025-11-24 19:24:33 chatId retrieved: -1002638392742
+2025-11-24 19:24:33 Checking if player 744156514 is alive...
+2025-11-24 19:24:33 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:33 Processing CHECK action
+2025-11-24 19:24:34 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:34 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:34 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:34 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:34 Game check PASSED - getting chatId
+2025-11-24 19:24:34 chatId retrieved: -1002638392742
+2025-11-24 19:24:34 Checking if player 744156514 is alive...
+2025-11-24 19:24:34 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:34 Processing CHECK action
+2025-11-24 19:24:34 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:34 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:34 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:34 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:34 Game check PASSED - getting chatId
+2025-11-24 19:24:34 chatId retrieved: -1002638392742
+2025-11-24 19:24:34 Checking if player 744156514 is alive...
+2025-11-24 19:24:34 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:34 Processing CHECK action
+2025-11-24 19:24:37 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:37 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:37 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:37 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:37 Game check PASSED - getting chatId
+2025-11-24 19:24:37 chatId retrieved: -1002638392742
+2025-11-24 19:24:37 Checking if player 744156514 is alive...
+2025-11-24 19:24:37 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:37 Processing CHECK action
+2025-11-24 19:24:47 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:47 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:47 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:47 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:47 Game check PASSED - getting chatId
+2025-11-24 19:24:47 chatId retrieved: -1002638392742
+2025-11-24 19:24:47 Checking if player 744156514 is alive...
+2025-11-24 19:24:47 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:47 Processing CHECK action
+2025-11-24 19:24:49 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:49 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:49 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:49 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:49 Game check PASSED - getting chatId
+2025-11-24 19:24:49 chatId retrieved: -1002638392742
+2025-11-24 19:24:49 Checking if player 744156514 is alive...
+2025-11-24 19:24:49 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:49 Processing CHECK action
+2025-11-24 19:24:49 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:49 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:49 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:49 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:49 Game check PASSED - getting chatId
+2025-11-24 19:24:49 chatId retrieved: -1002638392742
+2025-11-24 19:24:49 Checking if player 744156514 is alive...
+2025-11-24 19:24:49 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:49 Processing CHECK action
+2025-11-24 19:24:49 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:49 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:49 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:49 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:49 Game check PASSED - getting chatId
+2025-11-24 19:24:49 chatId retrieved: -1002638392742
+2025-11-24 19:24:49 Checking if player 744156514 is alive...
+2025-11-24 19:24:49 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:49 Processing CHECK action
+2025-11-24 19:24:49 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:24:49 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:24:49 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:24:49 loadGame result: SUCCESS (phase=night)
+2025-11-24 19:24:49 Game check PASSED - getting chatId
+2025-11-24 19:24:49 chatId retrieved: -1002638392742
+2025-11-24 19:24:49 Checking if player 744156514 is alive...
+2025-11-24 19:24:49 Player 744156514 is ALIVE - checking action conditions (action=check, parts=4)
+2025-11-24 19:24:49 Processing CHECK action
+2025-11-24 19:25:09 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:25:09 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:25:09 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:25:09 loadGame result: NULL
+2025-11-24 19:25:09 Game check failed - sending 'game ended' message
+2025-11-24 19:25:10 handleCallbackQuery - userId: 744156514, data: check_336380893_-1002638392742_c0c2e8bcca9bf08b
+2025-11-24 19:25:10 action: check, parts: ["check","336380893","-1002638392742","c0c2e8bcca9bf08b"]
+2025-11-24 19:25:10 Extracted: groupChatId=-1002638392742, gameId=c0c2e8bcca9bf08b
+2025-11-24 19:25:10 loadGame result: NULL
+2025-11-24 19:25:10 Game check failed - sending 'game ended' message
+2025-11-24 19:30:52 handleCallbackQuery - userId: 541032985, data: join_game_-1002638392742_4b6420b7e0c0cf13
+2025-11-24 19:30:52 action: join, parts: ["join","game","-1002638392742","4b6420b7e0c0cf13"]

@@ -1,0 +1,50 @@
+2025-11-24 18:15:52 action: join, parts: ["join","game","-1002638392742","070677cb40547db2"]
+2025-11-24 18:15:57 handleCallbackQuery - userId: 1662411841, data: join_game_-1002638392742_070677cb40547db2
+2025-11-24 18:15:57 action: join, parts: ["join","game","-1002638392742","070677cb40547db2"]
+2025-11-24 18:17:52 handleCallbackQuery - userId: 541032985, data: join_game_-1002638392742_070677cb40547db2
+2025-11-24 18:17:52 action: join, parts: ["join","game","-1002638392742","070677cb40547db2"]
+2025-11-24 18:25:12 handleCallbackQuery - userId: 458141860, data: join_game_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:25:12 action: join, parts: ["join","game","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:25:20 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:25:20 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:27:35 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:27:35 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:28:14 handleCallbackQuery - userId: 723754700, data: join_game_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:28:14 action: join, parts: ["join","game","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:28:18 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:28:18 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:28:59 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:28:59 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:29:13 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:29:13 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:29:40 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:29:40 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:18 handleCallbackQuery - userId: 336380893, data: add_time_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:30:18 action: add, parts: ["add","time","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:25 handleCallbackQuery - userId: 407086080, data: join_game_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:30:25 action: join, parts: ["join","game","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:31 handleCallbackQuery - userId: 336380893, data: start_game_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:30:31 action: start, parts: ["start","game","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:46 handleCallbackQuery - userId: 723754700, data: detectivecheck_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:30:46 action: detectivecheck, parts: ["detectivecheck","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:46 Extracted: groupChatId=-1002638392742, gameId=8e8374f0e31cc7ed
+2025-11-24 18:30:46 loadGame result: SUCCESS (phase=night)
+2025-11-24 18:30:46 Processing detectivecheck action
+2025-11-24 18:30:47 detectivecheck action completed
+2025-11-24 18:30:49 handleCallbackQuery - userId: 723754700, data: check_407086080_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:30:49 action: check, parts: ["check","407086080","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:30:49 Extracted: groupChatId=-1002638392742, gameId=8e8374f0e31cc7ed
+2025-11-24 18:30:49 loadGame result: SUCCESS (phase=night)
+2025-11-24 18:31:02 handleCallbackQuery - userId: 723754700, data: check_407086080_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:31:02 action: check, parts: ["check","407086080","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:31:02 Extracted: groupChatId=-1002638392742, gameId=8e8374f0e31cc7ed
+2025-11-24 18:31:02 loadGame result: SUCCESS (phase=night)
+2025-11-24 18:31:16 handleCallbackQuery - userId: 723754700, data: check_407086080_-1002638392742_8e8374f0e31cc7ed
+2025-11-24 18:31:16 action: check, parts: ["check","407086080","-1002638392742","8e8374f0e31cc7ed"]
+2025-11-24 18:31:16 Extracted: groupChatId=-1002638392742, gameId=8e8374f0e31cc7ed
+2025-11-24 18:31:16 loadGame result: SUCCESS (phase=night)
+2025-11-24 18:33:45 handleCallbackQuery - userId: 336380893, data: kill_417162776_-1002638392742_431ad2c95dfd36aa
+2025-11-24 18:33:45 action: kill, parts: ["kill","417162776","-1002638392742","431ad2c95dfd36aa"]
+2025-11-24 18:33:45 Extracted: groupChatId=-1002638392742, gameId=431ad2c95dfd36aa
+2025-11-24 18:33:45 loadGame result: NULL
+2025-11-24 18:33:45 Game check failed - sending 'game ended' message
